@@ -1,0 +1,1 @@
+<iframe scrolling="no" frameborder="0" allowTransparency="true" style="overflow:hidden;border:0;width:120px;height:20px" src="http://plugins.mixi.jp/favorite.pl?href=<?php echo urlencode($sf_data->getRaw('url')); ?>&service_key=<?php echo $mixiCode; ?>&show_faces=false&width=120"></iframe>

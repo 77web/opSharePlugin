@@ -1,0 +1,7 @@
+all:
+  opSharePlugin:
+    mixi_button: true
+    mixi_code: "mixicode here"
+    twitter_button: true
+    google_button: true
+    facebook_button: true

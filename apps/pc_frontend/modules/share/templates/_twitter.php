@@ -1,0 +1,1 @@
+<a href="http://twitter.com/share" class="twitter-share-button" data-text="<?php echo isset($title) ? $title : ''; ?>" data-count="horizontal" data-lang="ja">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
